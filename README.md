@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @StarKoZz
 - 👀 I have been interested in computers since I was a kid! 
 - 🌱 I’m currently learning Python and PHP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact@sofiane-fares.xyz
 
 
