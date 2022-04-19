@@ -3,13 +3,14 @@
 - 👀 I have been interested in computers since I was a kid! 
 - 🌱 I’m currently learning Python and PHP
 - 📫 How to reach me : contact@sofiane-fares.xyz
-
+- 🏢 I created a "kind of company" that builds free access APIs for free!
 
 🇫🇷
 - 👋 Salut, je suis @StarKoZz
 - 👀 Je m'intéresse aux ordinateurs depuis que je suis tout petit ! 
 - 🌱 Je suis actuellement en train d'apprendre Python et PHP.
 - 📫 Comment me joindre : contact@sofiane-fares.xyz
+- 🏢 J'ai créé une "genre de société" qui conçoit des API d'accès gratuit et gratuit!
 
 
 <!---
